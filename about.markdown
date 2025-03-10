@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/Yorwick_waving.jpg" width="100%" height="auto">
+![yorwick waving](/assets/Yorwick_waving.jpg)
 
 Born in Eastweald that is now know Eastern Plaguelands, Yorvick was once living in small but cozy cabin near Darrowshire and was part of the vanguard that protected the town. 
 He and the other four was appointed by the king Terenas Menethil II by himself to keep peace and safety at the surrounding areas and the town.
